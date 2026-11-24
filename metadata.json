@@ -1,0 +1,6 @@
+{
+  "name": "MERCENTA BWS",
+  "description": "B2B international Beer, Wine & Spirits brand discovery, market intelligence, UK distribution research, Amazon UK commercial evaluation, and wholesale growth platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
